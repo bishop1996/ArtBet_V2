@@ -391,6 +391,7 @@ node_modules/@framer/benjamin.profile/README.md
 design/images/x0iShETKLEXCo3UDIXkDlGGZR5I.jpg
 design/images/wtwpgjURCTf6JD97XqfNpZ9sE.jpg
 design/images/vXNUMjdZthYjlraeC7Zhcq2kQY.jpg
+design/images/unxUHNZIi5KOar7Rszv5ngcBKO0.jpg
 design/images/skj02aHC7TZScrcIHHcNn44qvMQ.jpg
 design/images/qSQvGiX4gGQzJJVFgkIojFDCDCA.jpg
 design/images/psCrPldXHzDM8sfl0IFK1bRErU.jpg
@@ -401,6 +402,7 @@ design/images/kVI3IwCJ28WW0S7LyHKMzjDOg.jpg
 design/images/jOzWOfD1UiwrZP5MrknDtQ4EyoI.jpg
 design/images/g4mzOeqx8rSlXyTPBx4CQMY0.jpg
 design/images/bWtI60CFrHXH85KnrylsRqEzro.png
+design/images/XPxum7zmrWpSLbZ9zHwFwydc8c.jpg
 design/images/UjdRh6fsJSV2MJ0OgXEkLjQurE.png
 design/images/T1KwJkoNfWchFvIW83sn3N5QY.png
 design/images/RBqggtieh4aw1clMm0YSHXIDLg.jpg
